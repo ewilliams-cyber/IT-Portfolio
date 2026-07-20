@@ -1,45 +1,48 @@
 # Eric Williams
 
-## U.S. Army Veteran | IT Support | Networking | Systems Administration | Cybersecurity
+## U.S. Army Veteran | IT Support | Systems Administration | Networking | Cybersecurity
 
 Welcome to my professional IT portfolio.
 
-This repository documents the hands-on projects, labs, and technical skills I have developed through Cisco Networking Academy, Santa Rosa Junior College, and my personal home lab.
+This repository documents the labs, projects, certifications, and technical skills I've developed through Santa Rosa Junior College, Cisco Networking Academy, and my personal home lab.
 
-## Technical Areas
+---
 
-- Windows Administration
-- Linux Administration
+## Portfolio Sections
+
+- Home Lab
 - Cisco Networking
+- Linux Administration
 - Active Directory
-- Virtualization
+- Python Automation
 - Wireshark
 - Nmap
 - Splunk
 - pfSense
+- Documentation
+- Resume
+- Certifications
+
+---
+
+## Current Technologies
+
+- Windows 11
+- Ubuntu
+- Kali Linux
+- VirtualBox
+- Cisco Packet Tracer
+- Active Directory
+- Wireshark
+- Nmap
+- pfSense
+- Splunk
 - Python
-- Network Security
-- Technical Documentation
+- Git
+- GitHub
 
-## Featured Projects
-
-- Home IT Lab
-- Cisco Enterprise Network
-- Linux Administration Lab
-- Active Directory Lab
-- Ethical Hacking Lab
-- Python Automation
-- Packet Analysis
-- Vulnerability Assessment
-
-## Certifications
-
-- Cisco Ethical Hacker
-- Cisco Enterprise Networking, Security & Automation (ENSA)
-- Cisco Linux Administration
-- Cisco Switching, Routing & Wireless Essentials (SRWE)
-- Cisco Python Programming Essentials
+---
 
 ## Current Goal
 
-Continue expanding enterprise IT and cybersecurity skills while preparing for an IT Support, Help Desk, Systems Administrator, or SOC Analyst role.
+Continue building enterprise-level IT, networking, and cybersecurity skills through hands-on projects and documentation.
